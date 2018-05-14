@@ -1,0 +1,50 @@
+.food-feed {
+  margin-top: 10px;
+  margin-bottom:  10px;
+  border: solid 1px grey;
+}
+
+.food-feed-header {
+  background-color: #793452;
+  padding: 5px;
+}
+
+.food-feed-body {
+  padding: 5px;
+}
+
+.food-feed-item-img {
+  margin-left: 5px;
+}
+
+.food-feed-item img {
+  height: 80px;
+  width: 80px;
+}
+
+.food-feed-item-details {
+  margin-left: 5px;
+}
+
+.food-feed-item-description {
+  font-size: 10px;
+}
+
+.food-feed-item-title {
+  vertical-align: top;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.food-feed-item {
+  border: solid 1px grey;
+  display: block;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.food-feed h6 {
+  display: inline;
+  color: #fff;
+  font-family: Helvetica;
+}
