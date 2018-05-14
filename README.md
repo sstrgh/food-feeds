@@ -7,6 +7,13 @@ Assumptions :
 3. Dont need to show all the details, but they are saved
 4. Show only the last 5 entries
 
+Things that I would have done if given alot more time:
+1. Allow the admin to add multiple rss feed providers.
+2. Allow a see more option, that can show more than the last 5 entries.
+3. Allow the admin to choose the feed item layout.
+4. Integrate the urls with BitLy to track how many people visited the various feed items displayed so that we know what people like reading about.
+
+
 Steps to use it:  
 
 Via Downloads - 
