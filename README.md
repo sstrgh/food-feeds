@@ -2,7 +2,6 @@
 Your favorite food feed plugin for wordpress
 
 ## Assumptions
-Assumptions :  
 1. Only 1 feed provider  
 2. Date time provided has already been localised
 3. Dont need to show all the details, but they are saved
